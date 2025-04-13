@@ -46,25 +46,78 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="37" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="37" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="37" alt="angularjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="37" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="37" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="37" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="37" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="37" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="37" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="37" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="37" alt="graphql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="37" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="37" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="37" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="37" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="37" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="37" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="37" alt="jupyter logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="37" alt="materialui logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="37" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="37" alt="netlify logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="37" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="37" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="37" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="37" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="37" alt="pytorch logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="37" alt="qt logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="37" alt="r logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/slack/4A154B" height="37" alt="slack logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="37" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="37" alt="tensorflow logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="37" alt="trello logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="37" alt="ubuntu logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="37" alt="vercel logo"  />
 </div>
+
+
 
 ###
 
